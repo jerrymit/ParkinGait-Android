@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ParkinGait</string>
+    <string name="Title">Gait Tracker Home Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmed_password">Confirm Password</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="height">Height (inches)</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_user">Create New User</string>
+    <string name="register">Register</string>
+    <string name="calibration">Calibration</string>
+    <string name="recommend_step_length">Recommended Step Length:</string>
+    <string name="phone_location">Phone Location</string>
+    <string name="collect">Collecting</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="inpocket">In Pocket/In Front</string>
+    <string name="inwaist">In Waist/On Side</string>
+    <string name="enter_goal_steps">Enter new goal steps: </string>
+    <string name="dashboard">Dashboard</string>
+</resources>

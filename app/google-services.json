@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987453531886",
+    "firebase_url": "https://parkingait-default-rtdb.firebaseio.com",
+    "project_id": "parkingait",
+    "storage_bucket": "parkingait.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987453531886:android:ca54318fd75816d71fb5ff",
+        "android_client_info": {
+          "package_name": "com.example.parkingait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987453531886-t31bdistdbd8vojotnebile09rsrd4mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Er7LcwbuhpdVjXWrGQL3z1L-B842o6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987453531886-61k7kl51vel7meksn047s0t0l2pagipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
